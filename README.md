@@ -1,6 +1,8 @@
-# kids_introduce_with_animal
+# kids_introduce_with_cartoons
 
 Flutter UI practise
+
+ <img src="https://github.com/Sifuln/kids_introduce_with_top_cartoons/blob/main/Screenshot_1650783725.png?raw=true" alt="Design 1" style="max-width: 100%;" width="280px" height="500px"> <img src="https://raw.githubusercontent.com/Sifuln/kids_introduce_with_top_cartoons/main/Screenshot_1650783734.png" alt="Design 1" style="max-width: 100%;" width="280px" height="500px">
 
 ## Getting Started
 
@@ -14,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
